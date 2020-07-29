@@ -2,6 +2,9 @@ cmake_minimum_required(VERSION 2.8)
 
 project(FirstVisualTest)
 
+message(STATUS "CMAKE BINARY DIR: ${CMAKE_BINARY_DIR}")
+message(STATUS "PROJECT SOURCE DIR: ${PROJECT_SOURCE_DIR}")
+#set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/build)
 find_package(OpenCV 3.4.10 REQUIRED)
 
 message(STATUS "OpenCV library status:")
