@@ -1,5 +1,0 @@
-/home/nvidia/Git_Projects/PowerRanger/FirstVisualTest/build-FirstVisualTest-JetsonTX2-Default/CMakeFiles/rebuild_cache.dir
-/home/nvidia/Git_Projects/PowerRanger/FirstVisualTest/build-FirstVisualTest-JetsonTX2-Default/CMakeFiles/edit_cache.dir
-/home/nvidia/Git_Projects/PowerRanger/FirstVisualTest/build-FirstVisualTest-JetsonTX2-Default/src/CMakeFiles/rebuild_cache.dir
-/home/nvidia/Git_Projects/PowerRanger/FirstVisualTest/build-FirstVisualTest-JetsonTX2-Default/src/CMakeFiles/FirstVisualTest.dir
-/home/nvidia/Git_Projects/PowerRanger/FirstVisualTest/build-FirstVisualTest-JetsonTX2-Default/src/CMakeFiles/edit_cache.dir
